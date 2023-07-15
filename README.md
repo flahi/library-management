@@ -15,15 +15,15 @@ To install and set up the Library Management System, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/flahi/library-management.git
+`git clone https://github.com/flahi/library-management.git`
 
 2. Navigate to the project directory:
 
-cd library-management
+`cd library-management`
 
 3. Run the python file
 
-python3 library_management.py
+`python3 library_management.py`
 
 4. Enter your MySQL username and password
 
